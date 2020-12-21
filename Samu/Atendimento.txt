@@ -1,0 +1,2 @@
+rua;12;complemento;bairro;cidade;estado;12121-212;(12) 12121-2121;francisco;quase morreu;caçambeiros, praça;Masculino;apanhou dazamiga;Trânsito Cidade;Regulação;21;04/12/2019 12:40:47;123.123.123-12
+s;1;g;s;h;g;11111-111;(11) 11111-1111;João;s;s;Masculino;s;Trânsito Cidade;Regulação;2;05/12/2019 19:25:14;111.111.111-11

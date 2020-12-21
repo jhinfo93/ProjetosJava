@@ -1,0 +1,16 @@
+Ter cuidado com as imgs que somem antes de entregar o trabalho.
+Quando entregar o trabalho, colocar o Robo com mais vidas. Tirar os println do fechamento das threads no método de encerrar thread.
+
+Caminho correto das pastas. Todas pastas(6) de sprits ficam dentro de bin:
+bin -> visao -> Menu Principal
+bin -> personagem -> Explos�o; Inimigos; Megaman
+bin -> fase -> Cenário; Icones
+
+-Mudar a musica para quando terminar o jogo
+
+------------------
+		Adicionais
+		
+-Mudar música da segunda fase.
+-Música para quando terminar o jogo.
+-Som da bola do palhaço rolando
